@@ -55,7 +55,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 MIT
 
 👑 Developed By
-Ashik – Full-stack Developer
+Ashik – Frontend Developer
 Portfolio Website | LinkedIn | YouTube
 
 
